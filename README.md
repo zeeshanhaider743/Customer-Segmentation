@@ -1,7 +1,7 @@
 # EDA on Supermarket Dataset
 The purpose of this project to perform exploratory data analysis on ecommerce dataset to get valuable insights and make decisions on the basis of those insights
 
-#Important Steps:
+# Important Steps:
 
 Data Loading
 
@@ -13,7 +13,7 @@ Analyzing the Data
 
 Interpretation of the Results
 
-#Features:
+# Features:
 
 Data Visualization
 
